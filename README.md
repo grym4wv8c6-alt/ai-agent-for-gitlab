@@ -18,7 +18,7 @@ own GitLab CI runners.
 > via [Schickli/ai-code-for-gitlab](https://github.com/Schickli/ai-code-for-gitlab). This fork
 > adds merge request reviews on reviewer assignment (no GitLab Duo required), a central runner
 > mode and a Helm chart that can set up GitLab for you.
-
+ 
 ## Features
 
 - One webhook endpoint for all projects
